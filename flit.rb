@@ -5,7 +5,7 @@ class Flit < Formula
   desc "AI-powered Conventional Commits Generator"
   homepage "https://github.com/CalsRanna/auto_commit"
   url "https://github.com/CalsRanna/auto_commit/releases/download/v1.0.0/flit"
-  sha256 "489fcd926c129c12699e8f10f231148853e7366cc6680f3c789d174e0ac99567"
+  sha256 "a2674cd8ab897cf47a13f99a33d24d79c95bd570aad8e8c8057a6cc5cedbd817"
   license ""
 
   # depends_on "cmake" => :build
