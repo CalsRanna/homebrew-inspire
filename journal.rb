@@ -1,12 +1,21 @@
 class Journal < Formula
-  desc "Automatic Git work log generator with AI analysis"
+  desc "A sample Homebrew package"
   homepage "https://github.com/CalsRanna/auto_reflect"
+  license "MIT"
+  version "1.0.0"
+
+  
   url "https://github.com/CalsRanna/auto_reflect/releases/download/v1.0.0/journal"
   sha256 "e09c6b281b267aad3c7a390c9cbd3f49df56360f1b3906dfd3ffebce4c33329a"
-  license "MIT"
+  
 
   def install
     bin.install "journal"
+    
+    
+    
+    
+    
   end
 
   test do
