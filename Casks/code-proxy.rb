@@ -5,7 +5,6 @@ cask "code-proxy" do
   name "Code Proxy"
   desc "Anthropic API proxy manager for Claude Code. Supports macOS, Windows, and Linux."
   homepage "https://github.com/CalsRanna/code_proxy"
-  license "MIT"
 
   app "Code Proxy.app"
 
