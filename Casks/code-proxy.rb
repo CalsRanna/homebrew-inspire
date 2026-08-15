@@ -1,7 +1,7 @@
 cask "code-proxy" do
-  version "1.6.5"
-  sha256 "e9aef5e87b1b4a17dc4493a4ccb121779cd9bc82d95a1e28e73120ac39e4c130"
-  url "https://github.com/CalsRanna/code_proxy/releases/download/v1.6.5/CodeProxy-macOS.zip"
+  version "1.6.6"
+  sha256 "a33210d1a2bc0c33aa9f478ca890e9a7d3bd426ff217472cc97a2635cd180424"
+  url "https://github.com/CalsRanna/code_proxy/releases/download/v1.6.6/CodeProxy-macOS.zip"
   name "Code Proxy"
   desc "Anthropic API proxy manager for Claude Code. Supports macOS, Windows, and Linux."
   homepage "https://github.com/CalsRanna/code_proxy"
